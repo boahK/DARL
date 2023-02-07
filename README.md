@@ -5,6 +5,8 @@ This repository is the official implementation of "Diffusion Adversarial Represe
 [[ICLR 2023](https://openreview.net/forum?id=H0gdPxSwkPb)]
 [[arXiv](https://arxiv.org/abs/2209.14566)]
 
+![Image of The Proposed method](figs/method.png)
+
 ## Requirements
   * OS : Ubuntu
   * Python >= 3.6
