@@ -1,0 +1,1 @@
+python3 main.py -p train -c config/train.json
