@@ -39,7 +39,7 @@ To brifely test our method given the pretrained model, we provided the toy examp
 
 ## Citations
 
-'''
+```
 @inproceedings{
 kim2023diffusion,
 title={Diffusion Adversarial Representation Learning for Self-supervised Vessel Segmentation},
@@ -48,4 +48,4 @@ booktitle={The Eleventh International Conference on Learning Representations },
 year={2023},
 url={https://openreview.net/forum?id=H0gdPxSwkPb}
 }
-'''
+```
