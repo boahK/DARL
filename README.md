@@ -36,3 +36,16 @@ python3 main.py -p test -c config/test.json
 You can download our pretrained model of XCAD dataset [here](https://drive.google.com/file/d/1Kuh-YEhRaR4LEsltnXflnJgxSoTx06j5/view?usp=sharing).
 Then, you can test the model by saving the pretrained weights in the directory ./pretrained_model.
 To brifely test our method given the pretrained model, we provided the toy example in the directory './data/'.
+
+## Citations
+
+'''
+@inproceedings{
+kim2023diffusion,
+title={Diffusion Adversarial Representation Learning for Self-supervised Vessel Segmentation},
+author={Boah Kim and Yujin Oh and Jong Chul Ye},
+booktitle={The Eleventh International Conference on Learning Representations },
+year={2023},
+url={https://openreview.net/forum?id=H0gdPxSwkPb}
+}
+'''
